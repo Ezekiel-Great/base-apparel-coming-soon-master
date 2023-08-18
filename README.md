@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ Base-apparel-master](https://github.com/Ezekiel-Great/base-apparel-master)
-- Live Site URL: [base-apparel-master Live site URL](https://your-live-site-url.com)
+- Solution URL: [ Base-apparel-master](https://github.com/Ezekiel-Great/base-apparel-coming-soon-master)
+- Live Site URL: [base-apparel-master Live site URL](https://ezekiel-great.github.io/base-apparel-coming-soon-master/)
 
 ## My process
 
