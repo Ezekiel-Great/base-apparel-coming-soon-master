@@ -65,6 +65,7 @@ picture img{
 .input{
   display: flex;
   align-items: center; 
+  position: relative;
 }
 
 .input #email  {
@@ -72,7 +73,6 @@ picture img{
   border-radius: 30px;
   width: 470px;
   height: 55px;
-  position: relative;
   padding-left: 20px;
   font-size: 15px;
   font-weight: 600;
@@ -94,7 +94,7 @@ picture img{
   height: 57.5px;
   border-style: none;
   position: absolute;
-  left: 37.5%;
+  right: 0;
   background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%))
   ;
   cursor: pointer;
@@ -146,7 +146,6 @@ p.validationMessage{
   .container header{
     position:absolute;
     top: 32px;
-    /* margin: auto; */
   }
 
   .container .main {
@@ -188,7 +187,6 @@ p.validationMessage{
   
  .input button {
     width: 80px;
-    left: 69.5%;
   }
 }
 
